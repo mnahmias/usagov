@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+  <translation id="usa-language-status">
+      <en>The page language has changed to English.</en>
+      <es>El idioma de la página ha cambiado al español.</es>
+  </translation>
+    <translation id="lead">
+        <en>Your Guide to Government Information and Services</en>
+        <es>Su guía de servicios e información del Gobierno</es>
+    </translation>
+    <translation id="usa-grid-intro-h2">
+        <en>Finding the right information can be tough. Let us help.</en>
+        <es>¿Cómo podemos ayudarlo?</es>
+    </translation>
+    <translation id="usa-grid-intro-p">
+        <en>USAGov helps you navigate a complex world of government information and services, equipping you with the tips and tools to make your life a bit easier. We give you access to resources from hundreds of federal agencies, departments, and programs — in English and Spanish. Whether you need to register to vote, apply for a passport, or contact a member of Congress, USAGov is here for you — on and offline.</en>
+        <es>USAGov es su guía oficial de servicios e información del gobierno que le da acceso en inglés y en español a recursos de cientos de agencias federales, departamentos y programas. Ya sea necesite un pasaporte, busque su reporte de crédito o quiera contactar a un congresista, USAGov lo puede ayudar. Comience su búsqueda con nosotros.</es>
+    </translation>
+    <translation id="usa-channel-general-h3">
+        <en>What resources are available from USAGov?</en>
+        <es>¿Qué recursos están disponibles por medio de (en) USAGov?</es>
+    </translation>
+    <translation id="usa-channel-general-p">
+        <en>Explore USAGov to find information and services related to <![CDATA[<a href="https://www.usa.gov/finding-home">housing</a>]]>, <![CDATA[<a href="">health</a>]]>, <![CDATA[<a href="https://www.usa.gov/immigration-and-citizenship">immigration</a>]]>, <![CDATA[<a href="https://www.usa.gov/jobs-and-unemployment">employment</a>]]>, <![CDATA[<a href="https://www.usa.gov/benefits">benefits</a>]]>, and more.</en>
+        <es>Explora USAGov para encontrar la información y servicios relacionados con <![CDATA[<a href="https://gobierno.usa.gov/vivienda">viviendas</a>]]>, <![CDATA[<a href="https://gobierno.usa.gov/salud">salud</a>]]>, <![CDATA[<a href="https://gobierno.usa.gov/ciudadania-inmigracion-viajes">inmigración</a>]]>, <![CDATA[<a href="https://gobierno.usa.gov/trabajo-y-desempleo">empleos</a>]]>, <![CDATA[<a href="https://gobierno.usa.gov/desempleo">beneficios</a>]]>, y más.</es>
+    </translation>
+    <translation id="usa-channel-phonechat-h3">
+        <en>Can I speak with someone by phone or chat?</en>
+        <es>¿Puedo hablar con alguien por teléfono o chat?</es>
+    </translation>
+    <translation id="usa-channel-phonechat-p">
+        <en>Call 1-844-USA-GOV1 or go to <![CDATA[<a href="https://www.usa.gov/chat">USA.gov/chat</a>]]> to connect with specialists who can answer your questions.</en>
+        <es>Llame al 1-844-USA-GOV1 (1-844-872-4681) o vaya a <![CDATA[<a href="https://gobierno.usa.gov/chat">GobiernoUSA.gov/chat</a>]]> para conectarse con especialistas.</es>
+    </translation>
+    <translation id="usa-channel-education-h3">
+        <en>Where can I find educational resources?</en>
+        <es>¿Dónde puedo encontrar recursos educativos?</es>
+    </translation>
+    <translation id="usa-channel-education-p">
+        <en>Go to <![CDATA[<a href="https://kids.usa.gov/index.shtml">Kids.USA.gov</a>]]> to get the latest activities, worksheets, and lesson plans for students, teachers, and parents.</en>
+        <es>Vaya a <![CDATA[<a href="https://kids.usa.gov/">Kids.USA.gov</a>]]> para obtener las últimas actividades didácticas, planes de estudio y hojas de trabajo para estudiantes, maestros y padres en inglés.</es>
+    </translation>
+    <translation id="usa-channel-spanish-h3">
+        <en>Where can I access information in Spanish?</en>
+        <es>¿Dónde puedo tener acceso a información en inglés?</es>
+    </translation>
+    <translation id="usa-channel-spanish-p">
+        <en> Visit <![CDATA[<a href="https://gobierno.usa.gov/">GobiernoUSA.gov</a>]]> for resources on immigration, housing, financial assistance, and more — all in Spanish.</en>
+        <es>Visite <![CDATA[<a href="https://usa.gov/">USA.gov</a>]]> para recibir información en inglés sobre inmigración, viviendas, ayuda financiera y más.</es>
+    </translation>
+    <translation id="usa-channel-spanish-img">
+        <en><![CDATA[<img src="images/espanol.png" alt="espanol">]]></en>
+        <es><![CDATA[<img src="images/english.png" alt="english">]]></es>
+    </translation>
+    <translation id="usa-feature-image">
+      <en><![CDATA[<img src="images/brand-story.jpg" alt="usagov brand story">]]></en>
+      <es><![CDATA[<img src="images/feature-image-espanol.jpg" alt="hispanic heritage month">]]></es>
+    </translation>
+    <translation id="usa-feature-h2">
+      <en>Our Story</en>
+      <es>Infórmese y Protéjase</es>
+    </translation>
+    <translation id="usa-feature-p">
+      <en>For nearly 50 years, USAGov has been innovating, adapting, and evolving to better guide Americans to the information they need.</en>
+      <es>Veggies es bonus vobis, proinde vos postulo essum magis kohlrabi welsh onion daikon amaranth tatsoi tomatillo melon azuki bean garlic.</es>
+    </translation>
+    <translation id="usa-feature-btn">
+      <en><![CDATA[<a href="#" class="usa-btn usa-btn-secondary">Watch Our Video</a>]]></en>
+      <es><![CDATA[<a href="#" class="usa-btn usa-btn-secondary">Vea Nuestro Video</a>]]></es>
+    </translation>
+    <translation id="usa-publication-h2">
+      <en>Be a Savvy Consumer</en>
+      <es>Sea un consumidor informado</es>
+    </translation>
+    <translation id="usa-publication-p">
+      <en>Wondering how to deposit a check using your smartphone? Feeling overwhelmed about buying a car? Want to learn how to avoid scams and protect yourself from fraud? Look no further than the <![CDATA[<strong>Consumer Action Handbook</strong>]]>. Updated every year, this free resource offers readers tips on shopping for goods and services and on protecting your rights as a consumer.</en>
+      <es>¿Quiere saber cómo depositar un cheque por medio de su celular? ¿Se siente agobiado con la idea de comprar un automovil? ¿Le gustaría aprender a cómo evitar que lo estafen y obtener consejos sobre cómo protegerse de fraude? La <![CDATA[<strong>Guía del Consumidor</strong>]]> lo ayuda con información actualizada cada año a tomar mejores decisiones financieras y a cuidar su sueño americano.</es>
+    </translation>
+    <translation id="usa-publication-image">
+      <en><![CDATA[<img src="images/publications-image.png" alt="photo of consumer action handbook">]]></en>
+      <es><![CDATA[<img src="images/publications-image-espanol.png" alt="photo of consumer action handbook">]]></es>
+    </translation>
+    <translation id="usa-publication-btn">
+      <en><![CDATA[<a href="http://publications.usa.gov/USAPubs.php?PubID=5131&PHPSESSID=a3ek9oqqu966tvg2sknf6e3l23" class="usa-btn usa-btn-secondary">Download the Consumer Action Handbook</a>]]></en>
+      <es><![CDATA[<a href="http://publications.usa.gov/USAPubs.php?PubID=8202&PHPSESSID=a3ek9oqqu966tvg2sknf6e3l23" class="usa-btn usa-btn-secondary">Descargue la Guía del Consumidor</a>]]></es>
+    </translation>
+    <translation id="usa-properties-h3">
+      <en>USAGov Properties</en>
+      <es>USAGov Propiedades</es>
+    </translation>
+    <translation id="usa-social-h3">
+      <en>Stay Connected</en>
+      <es>Manténgase Conectado</es>
+    </translation>
+    <translation id="usa-mailing-h3">
+        <en>Join Our Mailing List</en>
+        <es>Únase a nuestra lista de correos</es>
+    </translation>
+    <translation id="usa-mailing-p">
+        <en>Get monthly updates and advice from USAGov</en>
+        <es>Reciba mensualmente actualizaciones y consejos de USAGov </es>
+    </translation>
+    <translation id="usa-mailing-a">
+        <en>Join Here</en>
+        <es>Únase aquí</es>
+    </translation>
+</translations>

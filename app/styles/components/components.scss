@@ -1,0 +1,24 @@
+@import "grid-item",
+        "hero",
+        "publication",
+        "footer",
+        "channels",
+        "language-toggle";
+
+
+.usa-feature-row{
+  font-size:1.125rem;
+  padding: 5em 0;
+  color: #fff;
+  background-color: #125080;
+  background-image: url('../images/feature-bg.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  p{
+    padding: 1.5em 0;
+  }
+  img{
+    width: 100%;
+    max-width: 400px;
+  }
+}
